@@ -1,0 +1,14 @@
+.inline {
+    background-color: skyblue;
+    width : 120px;
+    height: 100px;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+
+.block {
+    background-color: pink;
+    width : 400px;
+    height: 100px;
+}

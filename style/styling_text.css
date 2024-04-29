@@ -1,0 +1,42 @@
+.fontWeight{
+    font-weight: 200;
+}
+
+.transform{
+    text-transform: uppercase;
+}
+
+.font{
+    font-style: italic;
+}
+
+.deco{
+    text-decoration: underline;
+}
+
+.align{
+    text-align: left;
+}
+
+.spacing{
+    letter-spacing: 20;
+}
+
+.color{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+}
+
+.box{
+    width: 500px;
+    height: 500px;
+    border: 3px solid red;
+    background-color: white;
+    background-image: url('img/lion.jpeg');
+    background-repeat: repeat-x;
+    background-position: center;
+    background-size: 100px;
+}
